@@ -1,3 +1,19 @@
-h1{}
-img{border-radius: 15%;}
-body{background-color: rgb(184, 234, 255);}
+h1{ color: yellow;}
+body{ background-color: red;}
+h4{color: rgb(35, 196, 236);
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+p{ color: rgb(255, 248, 248)}
+img{ border-radius: 30%;}
+button{background-color: srgb(255, 255, 255);
+color: rgb(0, 0, 0);
+border-radius: 15%;}
+button:hover{background-color: yellowgreen;}
+button:hover{background-color: blue;}
+cafe-name{color: rgb(0, 255, 170);}
+class-1{color: black;}
